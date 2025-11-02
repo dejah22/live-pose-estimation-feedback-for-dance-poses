@@ -1,4 +1,4 @@
-# Real-Time Pose Estimation and Feedback for Bharatanatyam Dance Poses
+# Live Pose Estimation and Feedback for Bharatanatyam Dance Poses
 
 This project uses computer vision and AI-based similarity scoring to evaluate Bharatanatyam dance postures in real-time. By normalizing human body landmarks, the system provides pose-invariant comparisons and dynamic feedback to learners and practioners. Switch on your webcam and strike a pose!
 
@@ -42,4 +42,4 @@ The Dynamic feedback generation engine identifies specific body parts that devia
 Lightweight implementation tested on Macbook M2 Pro
 
 ## Contributions
-This is an ongoing research-oriented project. Contributions and collaborations are welcome.
+This is an ongoing project. Contributions and collaborations are welcome.
